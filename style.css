@@ -10,7 +10,8 @@ body {
     width: 100%;
 }
 
-header {
+header,
+footer {
     height: 70px;
     background-color: black;
 }
