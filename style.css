@@ -14,3 +14,8 @@ header {
     height: 70px;
     background-color: black;
 }
+
+section {
+    height: 100vh;
+    border: 3px solid black;
+}
